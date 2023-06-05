@@ -2,9 +2,14 @@
 <div class="text-center">
 یک نرم افزار ساده برای تغییر دی ان اس به همراه دی ان اس های آماده
 </div>
-<div href="https://github.com/LP-GamerOnly/LPDns-Changer/blob/main/LPDns%20changer.exe">
+<div>
+  <a href="https://github.com/LP-GamerOnly/LPDns-Changer/blob/main/LPDns%20changer.exe">
 برای دانلود کلیک کنید
+    </a>
 </div>
+
+
+
 
 
 ![DnsImage](https://cdn.discordapp.com/attachments/1115231235778809937/1115231525626183690/LPDnsChanger.PNG)
