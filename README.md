@@ -3,7 +3,7 @@
 یک نرم افزار ساده برای تغییر دی ان اس به همراه دی ان اس های آماده
 </div>
 <div>
-  <a href="https://github.com/LP-GamerOnly/LPDns-Changer/blob/main/LPDns%20changer.exe">
+  <a href="[https://github.com/LP-GamerOnly/LPDns-Changer/blob/main/LPDns%20changer.exe](https://raw.githubusercontent.com/LP-GamerOnly/LPDns-Changer/main/LPDns%20changer.exe)">
 برای دانلود کلیک کنید
     </a>
 </div>
