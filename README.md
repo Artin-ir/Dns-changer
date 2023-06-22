@@ -1,7 +1,7 @@
 # LPDns-Changer
 <div class="text-center">
 یک نرم افزار ساده برای تغییر دی ان اس به همراه دی ان اس های آماده
-  برای کمک به گیمر های سرزمین 💗
+ 
 </div>
 <div>
   <a href="https://raw.githubusercontent.com/LP-GamerOnly/LPDns-Changer/main/LPDns%20changer.exe">
