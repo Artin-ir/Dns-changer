@@ -20,3 +20,14 @@
 
 <a href="https://www.coffeebede.com/lp_gameronly"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 </div>
+
+
+آپدیت:
+<ul>
+ <li>
+  فیکس شدن اکثر باگ ها
+ </li>
+ <li>
+  درست شدن قسمت دی ان اس دلخواه
+ </li>
+</ul>
