@@ -7,7 +7,8 @@
   <a href="https://github.com/Artin-ir/Dns-changer/blob/main/Dns%20changer.exe">
 برای دانلود کلیک کنید
     </a>
- <p><p style="color:red;">توجه</p> : برای استفاده از برنامه باید <a href="https://dl2.soft98.ir/soft/n/NET.Framework.4.8.rar?1689616817">دات نت فریمورک 4.8</a> را نصب کرده باشید</p>
+ <p>توجه
+  : برای استفاده از برنامه باید <a href="https://dl2.soft98.ir/soft/n/NET.Framework.4.8.rar?1689616817">دات نت فریمورک 4.8</a> را نصب کرده باشید</p>
 </div>
 
 
