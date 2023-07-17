@@ -1,4 +1,4 @@
-# LPDns-Changer
+# Dns-Changer
 <div class="text-center">
 یک نرم افزار ساده برای تغییر دی ان اس به همراه دی ان اس های آماده
  
