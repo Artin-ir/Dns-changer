@@ -9,7 +9,9 @@
     </a>
  <p>توجه
 برای استفاده از برنامه باید برنامه های زیر را نصب کنید :
+<hr/>
 https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer
+  <hr/>
 https://aka.ms/vs/17/release/vc_redist.x86.exe
 
 </p>
