@@ -8,7 +8,11 @@
 برای دانلود کلیک کنید
     </a>
  <p>توجه
-  : برای استفاده از برنامه باید <a href="https://dl2.soft98.ir/soft/n/NET.Framework.4.8.rar?1689616817">دات نت فریمورک 4.8</a> را نصب کرده باشید</p>
+برای استفاده از برنامه باید برنامه های زیر را نصب کنید :
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-web-installer
+https://aka.ms/vs/17/release/vc_redist.x86.exe
+
+</p>
 </div>
 
 
@@ -26,7 +30,7 @@
 آپدیت:
 <ul>
  <li>
-  فیکس شدن اکثر باگ ها
+  فیکس شدن برخی باگ ها
  </li>
  <li>
   درست شدن قسمت دی ان اس دلخواه
